@@ -30,3 +30,7 @@ Manejo de excepciones mediante try/except.
 Persistencia de datos con archivo CSV para guardar el ranking entre partidas.
 Uso de randint para elegir personajes al azar.
 Uso de os.system("cls") para limpiar la pantalla
+
+Autor
+Yoi Chavarria
+FPY1101 – Fundamentos de Programación
